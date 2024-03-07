@@ -1,0 +1,8 @@
+*display: blocktoda 
+  automaticamente põe toda a largura disponível. Qualquer outro elemento posterior ficará em baixo (a largura não pode estar fixa)
+*display: inline
+  o elemento fica ao lado do outro na mesma liha.
+
+*<div> é um elemento block e e <img> é inline(não consigo aplicar margin: auto)
+
+* target="_blank" Faz com que a página de um link seja aberta em uma nova guia 
